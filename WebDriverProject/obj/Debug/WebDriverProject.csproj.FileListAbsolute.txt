@@ -1,1 +1,8 @@
 C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\bin\Debug\WebDriverProject.exe.config
+C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\bin\Debug\WebDriverProject.exe
+C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\bin\Debug\WebDriverProject.pdb
+C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\bin\Debug\WebDriver.dll
+C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\bin\Debug\WebDriver.xml
+C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\obj\Debug\WebDriverProject.csprojResolveAssemblyReference.cache
+C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\obj\Debug\WebDriverProject.exe
+C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\obj\Debug\WebDriverProject.pdb
