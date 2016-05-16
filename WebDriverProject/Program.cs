@@ -15,10 +15,15 @@ namespace WebDriverProject
         {
 
             IWebDriver driver = new ChromeDriver(@"C:\WebDrivers\");
-            driver.Url = "http://www.google.com";
+            driver.Url = @"file:///C:\Dev\TestSelenium\WebDriverProject\WebDriverProject\TestPage.html";
 
-           var searchBox = driver.FindElement(By.ClassName("gsfi"));
-            searchBox.SendKeys("pluralsight");
+            var radioButtons = driver.FindElements(By.Name("color"));
+            foreach (var radioButton in radioButtons)
+            {
+                if (radioButton.Selected)
+                    Console.WriteLine(radioButton.GetAttribute("value"));
+            }
+
         }
     }
 }
